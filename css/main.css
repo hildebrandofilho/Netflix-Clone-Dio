@@ -24,9 +24,8 @@ header .container{
 }
 
 header .logo{
-    margin-left: 30px;
-    margin-top: 2px;
-    height: 1rem;
+    margin-left: 10px;
+    padding: 10px;
 }
 
 header nav a{
