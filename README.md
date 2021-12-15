@@ -1,5 +1,5 @@
 # Netflix Clone - DIO
 
- Clone da interface da Netflix, utilizando HTML, CSS e JS.
+ Clone da interface da Netflix, utilizando HTML, CSS e JS(jQuery).
 
 ![banner](https://github.com/hildebrandofilho/netflix-clone-dio/blob/main/readme.png)
